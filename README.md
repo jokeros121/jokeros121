@@ -45,8 +45,8 @@
 ---
 
 ## 🚀 **Proyectos destacados**
-### 🔹 **Mi Portafolio Web**
-> 🌐 [Ver Proyecto](https://tuportafolio.com)  
+### 🔹 **Canal Sincelejo**
+> 🌐 [Ver Proyecto](https://github.com/jokeros121/Canal-Sincelejo)  
 > 📌 **Tecnologías:** HTML, CSS, JavaScript  
 > 🎨 **Descripción:** Mi portafolio personal donde muestro mis proyectos y habilidades.  
 
