@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Jose Terán <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, Soy Algemiro Teran <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <h3 align="center">🚀 Desarrollador Web Front-End & Diseñador Junior de Colombia</h3>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-💻 Desarrollado por [**Jose Terán**](https://github.com/jokeros121)  
+💻 Desarrollado por [**Algemiro Teran**](https://github.com/jokeros121)  
 📅 Última actualización: **03/04/2025**
 
 </div>
