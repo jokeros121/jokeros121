@@ -69,13 +69,12 @@
 ✅ Mejorar mis habilidades en **JavaScript**  
 ✅ Aprender más sobre **React.js y UI/UX Design**  
 ✅ Colaborar en **proyectos Open Source**  
-✅ Construir una comunidad de **desarrolladores**  
 
 ---
 
 <div align="center">
 
 💻 Desarrollado por [**Algemiro Teran**](https://github.com/jokeros121)  
-📅 Última actualización: **03/04/2025**
+📅 Última actualización: **04/06/2025**
 
 </div>
