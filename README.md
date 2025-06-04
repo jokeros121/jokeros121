@@ -51,7 +51,7 @@
 > 🎨 **Descripción:** Página web informativa para el canal digital Sincelejo.  
 
 ### 🔹 **Coqueta Beauty Studio**
-> 🛒 [Ver Proyecto](https://github.com/jokeros121/coqueta-beauty)  
+> 💅 [Ver Proyecto](https://github.com/jokeros121/coqueta-beauty)  
 > 📌 **Tecnologías:** HTML, CSS, JavaScript, Tailwind, Bootstrapt  
 > 📝 **Descripción:** Sistema web para agendamiento de citas en centros de belleza.  
 
