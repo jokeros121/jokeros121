@@ -48,12 +48,12 @@
 ### 🔹 **Canal Sincelejo**
 > 🌐 [Ver Proyecto](https://github.com/jokeros121/Canal-Sincelejo)  
 > 📌 **Tecnologías:** HTML, CSS, JavaScript  
-> 🎨 **Descripción:** Mi portafolio personal donde muestro mis proyectos y habilidades.  
+> 🎨 **Descripción:** Página web informativa para el canal digital Sincelejo.  
 
-### 🔹 **Tienda Online**
-> 🛒 [Ver Proyecto](https://mitienda.com)  
-> 📌 **Tecnologías:** HTML, CSS, JavaScript  
-> 📝 **Descripción:** Una tienda online con carrito de compras y pasarela de pago.  
+### 🔹 **Coqueta Beauty Studio**
+> 🛒 [Ver Proyecto](https://github.com/jokeros121/coqueta-beauty)  
+> 📌 **Tecnologías:** HTML, CSS, JavaScript, Tailwind, Bootstrapt  
+> 📝 **Descripción:** Sistema web para agendamiento de citas en centros de belleza.  
 
 ---
 
